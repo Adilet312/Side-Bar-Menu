@@ -20,8 +20,8 @@ These instructions will get you a copy of the project up and running on your loc
 * npm run start
 ### Specifications
 _Responsive side bar menu appears if it's size less then 1000px._
-* ![min-width:620px](sideBarMenu_max_1000px.png);
-* ![min-width:620px](SideBarMenu1000px.png);
+![min-width:620px](sideBarMenu_max_1000px.png);
+![min-width:620px](sideBarMenu1000px.png);
 ## Technologies Used
 
 _HTML, CSS, JavaScript, DOM Elements and Methods, IDE Atom_
